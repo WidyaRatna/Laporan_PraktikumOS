@@ -1,2 +1,2 @@
-# Laporan_PraktikumOS
-Laporan Praktikum OS
+# Laporan_PraktikumOS_Widya_3124521037
+Laporam Praktikum Sistem Operasi
